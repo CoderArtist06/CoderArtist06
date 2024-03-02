@@ -1,3 +1,4 @@
+//English
 - Hello, I am @CoderArtist06.
   I chose this name because for me programming is a form of art. 06 is the year I was born.
   I live and study in Italy, but I was not born there.
@@ -6,7 +7,7 @@
 - I am currently attending high school, I aspire to university and maybe I will be able to reach space. 
 - I am available to collaborate. :)
 
-
+//Italiano
 - Ciao, sono @CoderArtist06.
   Ho scelto questo nome perché per me la programmazione è una forma d’arte. 06 è l’anno in cui sono nato.
   Vivo e studio in Italia, ma non ci sono nato.
