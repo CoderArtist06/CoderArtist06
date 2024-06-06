@@ -1,4 +1,4 @@
-**English
+*English*
 - Hello, I am @CoderArtist06.
   I chose this name because for me programming is a form of art. 06 is the year I was born.
   I live and study in Italy, but I was not born there.
