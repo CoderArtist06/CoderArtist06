@@ -4,11 +4,14 @@ I am a high school student specializing in computer science. In my free time, I 
 
 ## My Programming Path ##
 ### Ongoing Projects ###
+- recognition of geometric figures
 
 ### Future Projects ###
+- Creation of a video game using graphic libraries in C.
 
 ### Completed Projects ###
-
+- flower
+- love
 
 
 <!---
