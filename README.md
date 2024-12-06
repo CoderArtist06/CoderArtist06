@@ -10,6 +10,7 @@ I am a high school student specializing in computer science. In my free time, I 
 - Creation of a video game using graphic libraries in C.
 
 ### Completed Projects ###
+- Hackathon 2024, Ferrara
 - flower
 - love
 
