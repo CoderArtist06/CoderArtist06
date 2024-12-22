@@ -25,15 +25,14 @@ My main professional goal is to enter the field of **research**, with a focus on
 
 ## 📞 How to Contact Me
 I'm always open to new collaborations and opportunities. Feel free to reach out to me through the following channels:
-- [LinkedIn](https://www.linkedin.com/in/valentin-cristian-ghita)
-- [Instagram](https://www.instagram.com/coderartist06)
+- [LinkedIn](https://www.linkedin.com/in/valentin-cristian-ghita-421b78330/)
+- [Instagram](https://www.instagram.com/coderartist06?igsh=aHN4ZmV4cmpoeGVw)
 
 ## 📂 My Projects
 Some of my most notable projects are already uploaded on GitHub. You can check out my repositories to see what I’m working on. You'll find both school-related and personal projects that showcase my passion and skills in programming.
 
 ## 🎮 Interests
 Outside of programming, I have many hobbies that enrich my life:
-- **Finance**: I'm always curious about how technology can intersect with the economy.
 - **Video Games**: I appreciate games for their ability to combine creativity and technology.
 - **Reading**: I enjoy reading, especially books related to technology and personal growth.
 - **Music**: Listening to and playing music helps me relax and find inspiration.
@@ -46,15 +45,6 @@ Outside of programming, I have many hobbies that enrich my life:
 - Code I write as part of my learning journey
 
 If you're interested in collaborating on a project or have any questions, feel free to reach out! 😊
-
-## My Programming Path ##
-### Ongoing Projects ###
-- to-do app
-
-### Completed Projects ###
-- Hackathon 2024, Ferrara
-- flower
-- love
 
 ---
 
