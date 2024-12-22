@@ -48,7 +48,7 @@ If you're interested in collaborating on a project or have any questions, feel f
 
 ---
 
-*Code, Learn, Grow.* 🚀
+*Learn, Code, Grow.* 🚀
 
 <!---
 CoderArtist06/CoderArtist06 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
