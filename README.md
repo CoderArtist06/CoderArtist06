@@ -12,6 +12,7 @@ I prefer working with **C**, but I also have experience with other languages and
 - **JavaScript**
 - **PHP**
 - **Arduino C**
+- **GDScrip**
 
 ## 📚 Background
 I am currently in school and have completed an **internship at a university** as part of my IT technician training. This hands-on experience has helped me develop a solid practical understanding of IT. I am always learning and improving through personal projects and school work.
