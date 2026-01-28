@@ -9,7 +9,7 @@ Most of my repositories are experiments, personal projects, or learning exercise
 
 ## 🌍 Languages
 - **Italian** (native)
-- **English** (intermediate - currently improving by practicing in YouTube videos, aiming for fluency)
+- **English** (intermediate)
 - **Romanian** (beginner - currently learning)
 
 ## 📞 Contact Me:
