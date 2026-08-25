@@ -1,4 +1,4 @@
-# Hi! I'm Valentin Cristian Ghita, aka CoderArtist06
+# Hi! I'm Cristian Ghita, aka CoderArtist06
 
 I'm an IT Technician graduate from a technical institute in computer science, and I’m currently studying Computer and Electronic Engineering at the University of Ferrara.
 
