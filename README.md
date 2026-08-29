@@ -14,7 +14,7 @@ Most of my repositories are experiments, personal projects, or learning exercise
 
 ## 📞 Contact Me:
 - [LinkedIn](https://www.linkedin.com/in/valentin-cristian-ghita-421b78330/)
-- [Instagram](https://www.instagram.com/_coder_artist/)
+- [Instagram](https://www.instagram.com/_coder_artist_06/)
 - [Itch.io](https://coderartist06.itch.io/)
 
 
