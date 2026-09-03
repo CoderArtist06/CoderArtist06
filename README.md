@@ -5,9 +5,9 @@ Diplomato come Perito Informatico (ITIS), attualmente studente di Ingegneria Inf
 Sviluppo principalmente in **C#** (Unity), con solide basi in **C** e esperienza pregressa in **GDScript** (Simile ad Python) (Godot). I miei interessi tecnici includono Game Development, CyberSecurity e Intelligenza Artificiale.
 
 ## 🎓 Certificazioni
-- Coddy — C Fundamentals
-- Coddy — C Logic & Flow
 - Unity Essentials
+- Coddy — C Logic & Flow
+- Coddy — C Fundamentals
 
 ## 🎮 Game Dev
 5 giochi pubblicati su itch.io, ognuno con la relativa repository qui su GitHub. Sto attualmente transitando da Godot a Unity/C# come motore principale.
