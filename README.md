@@ -1,22 +1,31 @@
-# Hi! I'm Cristian Ghita, aka CoderArtist06
+# Ciao, sono Cristian Ghita 👋 (aka CoderArtist06)
 
-I'm an IT Technician graduate from a technical institute in computer science, and I’m currently studying Computer and Electronic Engineering at the University of Ferrara.
+Diplomato come Perito Informatico (ITIS), attualmente studente di Ingegneria Informatica ed Elettronica all'Università di Ferrara.
 
-I enjoy programming in C and Python, and I also have experience with other languages and technologies. My main interests are CyberSecurity, Artificial Intelligence, and more recently game development as a personal hobby.
+Sviluppo principalmente in **C#** (Unity), con solide basi in **C** e esperienza pregressa in **GDScript** (Simile ad Python) (Godot). I miei interessi tecnici includono Game Development, CyberSecurity e Intelligenza Artificiale.
 
-## 📂 My Projects
-Most of my repositories are experiments, personal projects, or learning exercises, feel free to explore them!
+## 🎓 Certificazioni
+- Coddy — C Fundamentals
+- Coddy — C Logic & Flow
+- Unity Essentials
 
-## 🌍 Languages
-- **Italian** (native)
-- **English** (intermediate)
-- **Romanian** (beginner - currently learning)
+## 🎮 Game Dev
+5 giochi pubblicati su itch.io, ognuno con la relativa repository qui su GitHub. Sto attualmente transitando da Godot a Unity/C# come motore principale.
+👉 **[Gioca ai miei giochi su Itch.io](https://coderartist06.itch.io/)**
 
-## 📞 Contact Me:
+## 📂 Progetti in evidenza
+- **Tic-Tac-Toe (C)** — implementazione dell'algoritmo Minimax per un AI imbattibile *(link in arrivo)*
+- Repository dei giochi collegate dalle rispettive pagine Itch.io
+
+## 🌍 Lingue
+- 🇮🇹 Italiano (madrelingua)
+- 🇬🇧 Inglese (intermedio)
+- 🇷🇴 Rumeno (principiante)
+
+## 📞 Contatti
 - [LinkedIn](https://www.linkedin.com/in/valentin-cristian-ghita-421b78330/)
 - [Instagram](https://www.instagram.com/_coder_artist_06/)
 - [Itch.io](https://coderartist06.itch.io/)
-
 
 <!---
 CoderArtist06/CoderArtist06 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
