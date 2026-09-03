@@ -14,7 +14,7 @@ Sviluppo principalmente in **C#** (Unity), con solide basi in **C** e esperienza
 👉 **[Gioca ai miei giochi su Itch.io](https://coderartist06.itch.io/)**
 
 ## 📂 Progetti in evidenza
-- **Tic-Tac-Toe (C)** — implementazione dell'algoritmo Minimax per un AI imbattibile *(link in arrivo)*
+- **Tic-Tac-Toe (C)** — implementazione dell'algoritmo Minimax per un AI imbattibile *([link Repository](https://github.com/CoderArtist06/Tic-Tac-Toe))*
 - Repository dei giochi collegate dalle rispettive pagine Itch.io
 
 ## 🌍 Lingue
